@@ -1,0 +1,12 @@
+{
+  "input_id": "base_05",
+  "model_name": "pyttsx3-tts-engine",
+  "checkpoint_revision": "v2.90",
+  "output_wav_path": "outputs\\base_05.wav",
+  "runtime_seconds": 0.168,
+  "peak_ram_mb": 85.02,
+  "warnings": [],
+  "consent_status": "NOT_REQUIRED",
+  "audio_duration_seconds": 3.28,
+  "real_time_factor": 0.0513
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "base_01",
+    "text": "Dr. Smith visited the laboratory at 7 AM to inspect the new equipment.",
+    "voice_id": "voice_a",
+    "controls": { "rate": 1.0, "pitch": 1.0, "volume": 1.0 }
+  },
+  {
+    "id": "base_02",
+    "text": "Did you know that 85% of all statistics are calculated automatically?",
+    "voice_id": "voice_b",
+    "controls": { "rate": 0.8, "pitch": 0.9, "volume": 1.2 }
+  },
+  {
+    "id": "base_03",
+    "text": "Mrs. Davis bought 12 apples, 5 oranges, & 3 watermelons.",
+    "voice_id": "voice_a",
+    "controls": { "rate": 0.9, "pitch": 0.9, "volume": 0.8 }
+  },
+  {
+    "id": "base_04",
+    "text": "System alert! Temperature exceeded thresholds in sector 4B.",
+    "voice_id": "voice_b",
+    "controls": { "rate": 1.1, "pitch": 1.2, "volume": 1.5 }
+  },
+  {
+    "id": "base_05",
+    "text": "What time does the train depart for New York City tomorrow morning?",
+    "voice_id": "voice_a",
+    "controls": { "rate": 1.0, "pitch": 1.0, "volume": 1.0 }
+  },
+  {
+    "id": "base_06",
+    "text": "Artificial intelligence algorithms require rigorous software testing and complete reproduction steps.",
+    "voice_id": "voice_b",
+    "controls": { "rate": 1.0, "pitch": 0.95, "volume": 1.0 }
+  },
+  {
+    "id": "base_07",
+    "text": "Mr. Harrison, please submit the quarterly reports by Friday at 5 PM.",
+    "voice_id": "voice_a",
+    "controls": { "rate": 0.85, "pitch": 1.0, "volume": 1.0 }
+  },
+  {
+    "id": "base_08",
+    "text": "Wait... stop! Is that really the correct execution output?",
+    "voice_id": "voice_b",
+    "controls": { "rate": 1.0, "pitch": 1.05, "volume": 1.2 }
+  },
+  {
+    "id": "base_09",
+    "text": "The rapid development of open source speech generation models provides creator tools for accessible narration.",
+    "voice_id": "voice_a",
+    "controls": { "rate": 1.0, "pitch": 1.0, "volume": 1.0 }
+  },
+  {
+    "id": "base_10",
+    "text": "IncuBrix Track 01 assessment baseline verification successfully completed.",
+    "voice_id": "voice_b",
+    "controls": { "rate": 1.0, "pitch": 1.0, "volume": 1.0 }
+  }
+]

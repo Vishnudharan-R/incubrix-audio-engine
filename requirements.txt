@@ -1,0 +1,6 @@
+numpy
+pydantic
+scipy
+soundfile
+psutil
+piper-tts
